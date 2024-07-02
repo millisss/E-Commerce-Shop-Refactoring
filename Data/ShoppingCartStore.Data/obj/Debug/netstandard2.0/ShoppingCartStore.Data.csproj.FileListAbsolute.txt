@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\bin\Debug\netstandard2.0\ShoppingCartStore.Data.deps.json
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\bin\Debug\netstandard2.0\ShoppingCartStore.Data.dll
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\bin\Debug\netstandard2.0\ShoppingCartStore.Data.pdb
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\bin\Debug\netstandard2.0\ShoppingCartStore.Data.Common.dll
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\bin\Debug\netstandard2.0\ShoppingCartStore.Models.dll
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\bin\Debug\netstandard2.0\ShoppingCartStore.Data.Common.pdb
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\bin\Debug\netstandard2.0\ShoppingCartStore.Models.pdb
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\obj\Debug\netstandard2.0\ShoppingCartStore.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\obj\Debug\netstandard2.0\ShoppingCartStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\obj\Debug\netstandard2.0\ShoppingCartStore.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\obj\Debug\netstandard2.0\ShoppingCartStore.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\obj\Debug\netstandard2.0\ShoppingCartStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\obj\Debug\netstandard2.0\ShoppingCartStore.Data.csproj.CopyComplete
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\obj\Debug\netstandard2.0\ShoppingCartStore.Data.dll
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data\obj\Debug\netstandard2.0\ShoppingCartStore.Data.pdb

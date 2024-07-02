@@ -1,0 +1,15 @@
+﻿<aside class="mb-2">
+    <h3 class="text-center">Wishlist</h3>
+    <hr class="bg-info h-2">
+    <div class="text-center">
+        @if (User.Identity.IsAuthenticated)
+        {
+            @await Component.InvokeAsync("Wishlist")
+        }
+        else
+        {
+            <i class="text-secondary">Sign in to view you wishlist</i>
+        }
+    </div>
+    <hr class="bg-info" />
+</aside>

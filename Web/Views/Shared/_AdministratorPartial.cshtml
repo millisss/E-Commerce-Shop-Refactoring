@@ -1,0 +1,11 @@
+﻿@*@if (User.IsInRole("Administrator"))
+{
+    <li class="nav-item custom-admin-menu">
+        <a class="nav-link text-dark custom-admin-link" asp-page="/Categories/Create">
+            <button class="btn btn-sm custom-admin-button">Create Category</button>
+        </a>
+        <a class="nav-link text-dark custom-admin-link" asp-page="/Brands/Create">
+            <button class="btn btn-sm custom-admin-button">Create Brand</button>
+        </a>
+    </li>
+}*@

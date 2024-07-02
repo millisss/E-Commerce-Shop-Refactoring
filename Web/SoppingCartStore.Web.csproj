@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <UserSecretsId>aspnet-SoppingCartStore.Web-88E9C04E-A0AE-438C-9BA0-0EFB026BD290</UserSecretsId>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Components\Новая папка\**" />
+    <Content Remove="Components\Новая папка\**" />
+    <EmbeddedResource Remove="Components\Новая папка\**" />
+    <None Remove="Components\Новая папка\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Pages\_ViewImports.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\_ViewImports.cshtml" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.0" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\ShoppingCartStore.Common\ShoppingCartStore.Common.csproj" />
+    <ProjectReference Include="..\Data\ShoppingCartStore.Data\ShoppingCartStore.Data.csproj" />
+    <ProjectReference Include="..\Data\ShoppingCartStore.Models\ShoppingCartStore.Models.csproj" />
+    <ProjectReference Include="..\Services\ShoppingCartStore.Services.DataServices\ShoppingCartStore.Services.DataServices.csproj" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Folder Include="Views\Home\" />
+  </ItemGroup>
+
+</Project>

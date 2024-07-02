@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data.Common\bin\Debug\netstandard2.0\ShoppingCartStore.Data.Common.deps.json
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data.Common\bin\Debug\netstandard2.0\ShoppingCartStore.Data.Common.dll
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data.Common\bin\Debug\netstandard2.0\ShoppingCartStore.Data.Common.pdb
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Data.Common.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Data.Common.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Data.Common.AssemblyInfo.cs
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Data.Common.dll
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Data\ShoppingCartStore.Data.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Data.Common.pdb

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\bin\Debug\netstandard2.0\ShoppingCartStore.Common.deps.json
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\bin\Debug\netstandard2.0\ShoppingCartStore.Common.dll
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\bin\Debug\netstandard2.0\ShoppingCartStore.Common.pdb
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\bin\Debug\netstandard2.0\ShoppingCartStore.Data.Common.dll
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\bin\Debug\netstandard2.0\ShoppingCartStore.Data.dll
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\bin\Debug\netstandard2.0\ShoppingCartStore.Models.dll
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\bin\Debug\netstandard2.0\ShoppingCartStore.Data.Common.pdb
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\bin\Debug\netstandard2.0\ShoppingCartStore.Data.pdb
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\bin\Debug\netstandard2.0\ShoppingCartStore.Models.pdb
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Common.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Common.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Common.AssemblyInfo.cs
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Common.csproj.CopyComplete
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Common.dll
+C:\Users\user\Desktop\ShoppingCartStore-master\src\Common\ShoppingCartStore.Common\obj\Debug\netstandard2.0\ShoppingCartStore.Common.pdb
